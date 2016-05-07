@@ -1,6 +1,5 @@
 // constants and vars for choices, leds, switches, and results (result)
 const int ledPin = 13;
-const int piezoPin = 8;
 const int rockPin = 2;
 const int paperPin = 3;
 const int scissorsPin = 4;
